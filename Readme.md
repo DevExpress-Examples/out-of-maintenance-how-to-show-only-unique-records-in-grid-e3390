@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [FilterHelper.cs](./CS/FilteringRepeatRows/FilterHelper.cs) (VB: [FilterHelper.vb](./VB/FilteringRepeatRows/FilterHelper.vb))
+* [Form1.cs](./CS/FilteringRepeatRows/Form1.cs) (VB: [Form1.vb](./VB/FilteringRepeatRows/Form1.vb))
+* [Program.cs](./CS/FilteringRepeatRows/Program.cs) (VB: [Program.vb](./VB/FilteringRepeatRows/Program.vb))
+<!-- default file list end -->
 # How to show only unique records in Grid
 
 
